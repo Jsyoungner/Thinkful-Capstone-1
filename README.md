@@ -1,9 +1,2 @@
-# Thinkful-Capstone-1
-Jesse Youngner
+This is the excel workbook for the project. It contains a dashboard and all of the data analysis.
 
-Thinkful Data Analytics Immersion
-
-Capstone 1
-
-# "Lariat Rental Cars"
-Optimizing profits for Lariat, a fictional car rental company
